@@ -1,7 +1,5 @@
 # Instagram4Android
 
-
-
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/1024px-Instagram_logo_2016.svg.png" alt="Drawing" width="200" height="200"/>
 
 ## Credit
