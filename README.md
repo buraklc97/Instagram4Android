@@ -1,15 +1,8 @@
 # Instagram4Android
 
-[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)  [![Android Arsenal](https://img.shields.io/badge/Android%20Arsenal-Instagram4Android-brightgreen.svg?style=flat-square)](https://android-arsenal.com/details/1/6042)
+
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/1024px-Instagram_logo_2016.svg.png" alt="Drawing" width="200" height="200"/>
-
-This library directly talks to the private Instagram API, anything (well quite a lot) you can do on the IG app you can replicate with this library.  You also bypass the public API's rate limits. 
-
-## Support me
-Any support, money or otherwise, is greatly appreciated and motivates me to keep this library alive!  Also as a student beer money is always appreciated ;) !
-
-Bitcoin: 1BFLxaSGkk9DRjx7WTg9NkcWtRUzF2Z7qe
 
 ## Credit
 This was originally a port of a popular [Java repository](https://github.com/brunocvcunha/instagram4j) that provides access to Instagrams' private API.  This has been changed around to use OkHttp and various other fixes have been made to make it work with Android.  I will be updating this with more endpoints and so on as time goes on.
